@@ -1,0 +1,46 @@
+﻿@model RopaMexicana_171G0250_171G0222.Models.ViewModels.ProductoViewModel
+@{ Layout = "_Layout";
+    var producto = Model.Producto; }
+<h2 id="nombre">@producto.Nombre</h2>
+<section class="galeria" >
+
+   
+    <img src="~/imgs_productos/@(producto.Id)_0.jpg" width="200" height="250" />
+</section>
+
+
+
+<section class="descripcion" id="descripcion">
+   
+</section>
+
+
+
+<section class="info">
+    <label>Costo: </label>
+    <span id="otrosNombre">@producto.Costo.ToString("$0.00")</span>
+    <br />
+    <label>Marca: </label>
+    <span id="pais">@producto.IdMarcaAfiNavigation.Marca</span>
+    <br />
+    <label>Descripción:</label>
+    @producto.Descripción
+    <br />
+    <label>Color:</label>
+    @producto.Color
+    <br />
+    <label>Material:</label>
+    @producto.Material
+    <br />
+    <label>¿Deseas este producto?</label>
+    <a href="@producto.Hipervinculo" target="_blank" id="descripcion">Adquierelo aquí</a>
+
+
+    <br />
+
+
+</section>
+
+<br class="clear" />
+
+<a href="javascript:history.back();" class="button">Regresar</a>

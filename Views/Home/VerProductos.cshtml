@@ -1,0 +1,47 @@
+﻿@model RopaMexicana_171G0250_171G0222.Models.MarcaAfiliada
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{ Layout = "_LayoutA"; }
+
+<h1 class="display-4">Administración de productos</h1>
+<h2>Productos de: @Model.Marca</h2>
+<table>
+    <caption>
+        <a href="~/Home/AñadirProducto/@Model.Id">Añada un producto</a>
+    </caption>
+    <thead>
+        <tr>
+            <th>Nombre:</th>
+            <th>Costo:</th>
+            <th>vista original:</th>
+            <th>Control:</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var producto in Model.Producto)
+        {
+<tr>
+    <td>@producto.Nombre</td>
+    <td>@producto.Costo.ToString("$0.00")</td>
+    <td> <a href="@producto.Hipervinculo" target="_blank">Clic aquí</a></td>
+
+    <td>
+        <a href="~/Home/EditarDatosProducto/@producto.Id">Edite la información del producto</a>
+        <a href="#" onclick="EliminarProducto(@producto.Id)">Elimine el producto</a>
+    </td>
+</tr>}
+    </tbody>
+</table>
+
+<p style="text-align:center; margin:20px 0">
+    <a href="javascript:window.history.back()">Regresar</a>
+</p>
+
+<form method="post" asp-controller="Home" asp-action="EliminarProducto">
+    <input type="number" hidden="hidden" name="id" id="IdA" />
+</form>
+<script>
+    function EliminarProducto(id) {
+        document.getElementById("IdA").value = id;
+        document.querySelector("form").submit();
+    }</script>

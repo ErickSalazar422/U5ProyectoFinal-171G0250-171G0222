@@ -1,0 +1,70 @@
+﻿@model RopaMexicana_171G0250_171G0222.Models.MarcaAfiliada
+
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{ Layout = "_LayoutA"; }
+
+<div class="text-center">
+    <h1 class="display-4">ADMINISTRACIÓN DE MARCAS</h1>
+
+    @if (User.IsInRole("Administrador"))
+    {
+<section>
+    <h2>Apartado de Administrador</h2>
+    <p>
+        Administrador:<br />
+        @User.Claims.FirstOrDefault(x => x.Type == "Nombre").Value
+    </p>
+
+    <a asp-controller="Home" asp-action="VerAfiliados">
+        <input type="button" value="Afiliados" />
+    </a>
+    <br />
+    <br />
+    <a href="~/Home/CierreDeSesion">
+        <input type="button" value="Cerrar sesión" />
+    </a>
+
+</section>}
+
+    @if (User.IsInRole("Afiliado"))
+    {<section>
+
+            <h3>Afiliado: @User.Claims.FirstOrDefault(x => x.Type == "Nombre").Value</h3>
+            <h4>
+                Marca: @User.Claims.FirstOrDefault(x => x.Type == "Marca").Value
+            </h4>
+
+            <a href="~/Home/VerProductos/@(int.Parse(User.Claims.FirstOrDefault(x => x.Type == "Id").Value))">
+                <input type="button" value="Productos" />
+            </a>
+            <br />
+            <br />
+            <a href="~/Home/CierreDeSesion">
+                <input type="button" value="Cerrar sesión" />
+            </a>
+    <br />
+    <br />
+
+            <a href="javascript:eliminar()">
+                <input type="button" onclick="eliminar()" value="Eliminar cuenta" />
+            </a>
+        </section>
+
+        <form method="post" asp-controller="Home" asp-action="EliminarAfiliado">
+            <input type="email" hidden name="correo" value="@User.Claims.FirstOrDefault(x=>x.Type=="Correo electronico").Value" />
+        </form>
+
+        <script>
+            function eliminar() {
+                if (confirm('Esta cuenta será eliminada, ¿estás seguro?')) {
+                    document.querySelector("form").submit();
+                }
+            }
+        </script>}
+
+
+
+
+</div>
+

@@ -1,0 +1,47 @@
+﻿@model RopaMexicana_171G0250_171G0222.Models.ViewModels.ProductoViewModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{ Layout = "_LayoutA"; }
+
+<h1 class="display-4">Administración de productos</h1>
+<h2>Editar producto</h2>
+<form method="post" asp-controller="Home" asp-action="EditarDatosProducto" enctype="multipart/form-data">
+    <input type="hidden" asp-for="Producto.Id" /> <br />
+    <label>Nombre</label>
+    <input type="text" asp-for="Producto.Nombre" required /> <br />
+    <label>Costo $</label>
+    <input type="text" asp-for="Producto.Costo" required /> <br />
+    <label>Descripcion </label>
+    <input type="text" asp-for="Producto.Descripción" required /> <br />
+    <label>Color </label>
+    <input type="text" asp-for="Producto.Color" required /> <br />
+    <label>Material </label>
+    <input type="text" asp-for="Producto.Material" required /> <br />
+    <label>Vinculo a publicación en página del producto.</label>
+    <input type="text" asp-for="Producto.Hipervinculo" required /> <br />
+
+   
+    <label>Imagen:</label>
+    <input  type="file" id="fileUpload1" accept="image/jpg" onchange="mostrarImagen(this)" asp-for="Archivo" />
+    <br />
+    <img id="imagePreview" src="~/imgs_Productos/@(Model.Imagen)" alt="Vista previa de la imagen" /> <br />
+    <input type="submit" value="Editar datos del producto" /> <br />
+    <p style="text-align:left; margin:20px 0">
+        <a href="javascript:window.history.back()">Regresar</a>
+    </p>
+</form>
+<p>
+    @Html.ValidationSummary()
+</p>
+
+<script>
+    function mostrarImagen(input) {
+        if (input.files && input.files[0]) {
+            var reader = new FileReader();
+            reader.onload = function (e) {
+                document.querySelector('#imagePreview').src = e.target.result;
+            }
+            reader.readAsDataURL(input.files[0]);
+        }
+    }
+
+</script>

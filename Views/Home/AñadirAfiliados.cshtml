@@ -1,0 +1,27 @@
+﻿@model RopaMexicana_171G0250_171G0222.Models.MarcaAfiliada
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{ Layout = "_LayoutA"; }
+
+<h3>Agregar un afiliado</h3>
+<form method="post" asp-controller="Home" asp-action="AñadirAfiliados">
+    <label>Nombre</label>
+    <input type="text" asp-for="Nombre" required /> <br />
+    <label>Correo</label>
+    <input type="text" asp-for="Correo" required /> <br />
+    <label>Marca</label>
+    <input type="text" asp-for="Marca" required /> <br />
+    <label>Contraseña</label>
+    <input type="password" asp-for="Contrasena" required /> <br />
+
+    <label>Activo</label>
+    <input type="number" asp-for="Activo" required /> <br />
+    <input type="submit" value="Agregar un nuevoafiliado" />
+
+    <a href="~/Home/VerAfiliados">
+        <input type="button" value="Cancelar edicion" />
+    </a>
+</form>
+<p>
+    @Html.ValidationSummary()
+</p>
+

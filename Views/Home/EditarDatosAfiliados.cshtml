@@ -1,0 +1,22 @@
+﻿@model RopaMexicana_171G0250_171G0222.Models.MarcaAfiliada
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{ Layout = "_LayoutA"; }
+
+<h1 class="display-4">Administración de afiliados</h1>
+<h2>Editar datos de afiliado</h2>
+<form method="post" asp-controller="Home" asp-action="EditarDatosAfiliados">
+    <input type="hidden" asp-for="Id" /> <br />
+    <label>Nombre</label>
+    <input type="text" asp-for="Nombre" required /> <br />
+    <label>Marca</label>
+    <input type="text" asp-for="Marca" required /> <br />
+    <label>Correo</label>
+    <input type="text" asp-for="Correo" required /> <br />
+    <input type="submit" value="Confirmar cambios" />
+    <a href="~/Home/VerAfiliados">
+        <input type="button" value="Cancelar edicion" />
+    </a>
+</form>
+<p>
+    @Html.ValidationSummary()
+</p>

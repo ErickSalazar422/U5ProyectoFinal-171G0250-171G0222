@@ -1,0 +1,26 @@
+﻿@model RopaMexicana_171G0250_171G0222.Models.ViewModels.AfiliadosViewModel
+@{ Layout = "_Layout"; }
+
+<h1 id="nombreCategoria">@Model.MarcaAfiliado</h1>
+
+<div class="list">
+    @foreach (var item in Model.Productos)
+    {
+        <ul>
+            <li>
+                <a href="/Home/Detalles/@item.Nombre.Replace(" ", "-")">
+
+                    <h2>@item.Nombre</h2>
+                    <img src="~/imgs_Productos/@(item.Id)_0.jpg"  />
+
+                </a>
+                <h2 id="precio">@item.Costo.ToString("$0.00")</h2>
+            </li>
+        </ul>
+}
+
+</div>
+
+
+
+

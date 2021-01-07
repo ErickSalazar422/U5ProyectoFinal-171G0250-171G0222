@@ -1,0 +1,58 @@
+﻿@model RopaMexicana_171G0250_171G0222.Models.MarcaAfiliada
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    Layout = "_Layout";
+}
+
+<h1>Registrate!!</h1>
+<form method="post" asp-controller="Home" asp-action="Registro" class="Datos">
+
+    <div>
+        <label>Ingrese sus datos de registro </label>
+        <br />
+        <label>Correo Electonico:</label>
+        <br />
+        <input type="email" required asp-for="Correo" /><br />
+        <br />
+        <label>Nombre:</label> <br />
+
+        <input type="text" required asp-for="Nombre" /><br />
+        <br />
+        <label>Nombre de tu marca:</label> <br />
+
+        <input type="text" required asp-for="Marca" /><br />
+        <br />
+
+        <label>Contraseña:</label>
+        <br />
+
+        <input type="password" asp-for="Contrasena" name="contra" required /><br />
+        <br />
+
+        <label>Confirma tu contraseña:</label>
+        <br />
+
+        <input type="password" name="confContra" required />
+
+
+    </div>
+
+    <p class="error">
+        @Html.ValidationSummary()
+    </p>
+    <input type="submit" value="Registrarme" />
+    <br />
+    <br />
+    Ya tienes una cuenta?<br />
+    <a asp-controller="Home" asp-action="InicioDeSesion">
+        <input type="button" value="Iniciar Sesion" />
+    </a>
+    <br />
+    <p style="text-align:center; margin:20px 200px 0 0">
+        <a href="javascript:window.history.back()">Regresar</a>
+    </p>
+
+</form>
+
+

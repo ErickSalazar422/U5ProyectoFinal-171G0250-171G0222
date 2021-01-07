@@ -1,0 +1,50 @@
+﻿@model IEnumerable<RopaMexicana_171G0250_171G0222.Models.MarcaAfiliada>
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{ Layout = "_LayoutA"; }
+
+<h1 class="display-4">Administración de marcas</h1>
+<h2>Afiliados de la empresa</h2>
+<a asp-controller="Home" asp-action="AñadirAfiliados">Añade un nuevo afiliado</a>
+<table id="tabla">
+    <thead>
+        <tr>
+            <th>Id:  </th>
+            <th>Nombre:  </th>
+            <th>Marca:  </th>
+            <th>Activo:  </th>
+            <th>Control:</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var afiliado in Model)
+        {
+<tr>
+    <td>@afiliado.Id</td>
+    <td>@afiliado.Nombre</td>
+    <td>@afiliado.Marca</td>
+
+    <td href="Id" onclick="cambiar(@afiliado.Id)">@((afiliado.Activo==1)?"Activo":"Inactivo")</td>
+    <td>
+        <a href="~/Home/VerProductos/@afiliado.Id">Ver productos</a>
+    </td>
+    <td>
+        <a href="~/Home/CambiarContraseñaAfiliados/@afiliado.Id">Cambie la contraseña del afiliado</a>
+    </td>
+    <td>
+        <a href="~/Home/EditarDatosAfiliados/@afiliado.Id">Edite los datos del afiliado</a>
+    </td>
+</tr>}
+    </tbody>
+</table>
+
+<a href="~/Home/SesionIniciada">
+    <label>Regresar</label>
+</a>
+<form method="post" action="~/Home/DesactivarAfiliado">
+    <input type="number" id="Id" name="Id" hidden />
+</form>
+<script>function cambiar(id) {
+        document.getElementById("Id").value = id;
+        document.querySelector("form").submit();
+    }</script>

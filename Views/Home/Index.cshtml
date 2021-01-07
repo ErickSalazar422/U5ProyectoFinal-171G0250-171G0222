@@ -1,0 +1,27 @@
+﻿@model IEnumerable<RopaMexicana_171G0250_171G0222.Models.ViewModels.AfiliadosViewModel>
+
+@{ Layout = "_Layout"; }
+
+
+<div class="list">
+
+        @foreach (var afiliados in Model)
+        {
+   
+                    @foreach (var r in afiliados.Productos)
+                    {
+    <ul>
+        <li>
+
+            <a  href="/Home/Detalles/@r.Nombre.Replace(" ", "-")">
+                <h2> @r.Nombre</h2>
+                <img src="~/imgs_Productos/@(r.Id)_0.jpg" />
+
+
+            </a>
+            <h2 id="precio">@r.Costo.ToString("$0.00")</h2>
+        </li>
+    </ul>
+        }
+        }
+    </div>

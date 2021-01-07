@@ -1,0 +1,22 @@
+﻿@model RopaMexicana_171G0250_171G0222.Models.MarcaAfiliada
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@{ Layout = "_LayoutA"; }
+
+<h1 class="display-4">Administración de afiliados</h1>
+<h2>Cambiar contraseña </h2>
+<label>Marca afiliada: </label>
+<input type="text" asp-for="Nombre" readonly="readonly" />
+<form method="post" asp-controller="Home" asp-action="CambiarContraseñaAfiliados">
+    <input type="hidden" asp-for="Id" />
+    <label>Nueva contraseña</label>
+    <input type="password" asp-for="Contrasena" name="contraseña" required /> <br />
+    <label>Confirmar contraseña</label>
+    <input type="password" name="confcontraseña" required /> <br />
+    <input type="submit" value="Actualizar" />
+    <a href="~/Home/VerAfiliados">
+        <input type="button" value="Cancelar edicion" />
+    </a>
+</form>
+<p>
+    @Html.ValidationSummary()
+</p>

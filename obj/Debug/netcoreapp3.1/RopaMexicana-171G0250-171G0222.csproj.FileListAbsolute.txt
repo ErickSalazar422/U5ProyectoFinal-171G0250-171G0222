@@ -1,0 +1,440 @@
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.exe
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.deps.json
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.runtimeconfig.json
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.runtimeconfig.dev.json
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.pdb
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.Views.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.Views.pdb
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.csprojAssemblyReference.cache
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.AssemblyInfoInputs.cache
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.AssemblyInfo.cs
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.csproj.CoreCompileInputs.cache
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.RazorAssemblyInfo.cache
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.RazorAssemblyInfo.cs
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\staticwebassets\RopaMexicana-171G0250-171G0222.StaticWebAssets.Manifest.cache
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\staticwebassets\RopaMexicana-171G0250-171G0222.StaticWebAssets.xml
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\scopedcss\bundle\RopaMexicana-171G0250-171G0222.styles.css
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.TagHelpers.input.cache
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.TagHelpers.output.cache
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.RazorCoreGenerate.cache
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.RazorTargetAssemblyInfo.cache
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.RazorTargetAssemblyInfo.cs
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.Views.pdb
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.pdb
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.genruntimeconfig.cache
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.csproj.CopyComplete
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\Registro.cshtml.g.cs
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\InicioDeSesion.cshtml.g.cs
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\SesionIniciada.cshtml.g.cs
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\ActivacionDeCuenta.cshtml.g.cs
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\InicioDeSesionAdministrador.cshtml.g.cs
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\VerAfiliados.cshtml.g.cs
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\AñadirAfiliados.cshtml.g.cs
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditarDatosAfiliados.cshtml.g.cs
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\CambiarContraseñaAfiliados.cshtml.g.cs
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\VerProductos.cshtml.g.cs
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\AñadirProducto.cshtml.g.cs
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditarDatosProducto.cshtml.g.cs
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\Detalles.cshtml.g.cs
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\MarcaxProductos.cshtml.g.cs
+C:\Users\Erock\Documents\proyectos visual\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutA.cshtml.g.cs
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.exe
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.deps.json
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.runtimeconfig.json
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.runtimeconfig.dev.json
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.pdb
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.Views.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.Views.pdb
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.csprojAssemblyReference.cache
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.AssemblyInfoInputs.cache
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.AssemblyInfo.cs
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.csproj.CoreCompileInputs.cache
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.RazorAssemblyInfo.cache
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.RazorAssemblyInfo.cs
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.TagHelpers.input.cache
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.TagHelpers.output.cache
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.RazorCoreGenerate.cache
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\ActivacionDeCuenta.cshtml.g.cs
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\AñadirAfiliados.cshtml.g.cs
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\AñadirProducto.cshtml.g.cs
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\CambiarContraseñaAfiliados.cshtml.g.cs
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\Detalles.cshtml.g.cs
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditarDatosAfiliados.cshtml.g.cs
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditarDatosProducto.cshtml.g.cs
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\InicioDeSesion.cshtml.g.cs
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\InicioDeSesionAdministrador.cshtml.g.cs
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\MarcaxProductos.cshtml.g.cs
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\Registro.cshtml.g.cs
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\SesionIniciada.cshtml.g.cs
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\VerAfiliados.cshtml.g.cs
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\VerProductos.cshtml.g.cs
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutA.cshtml.g.cs
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.RazorTargetAssemblyInfo.cache
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.RazorTargetAssemblyInfo.cs
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.Views.pdb
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.csproj.CopyComplete
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\staticwebassets\RopaMexicana-171G0250-171G0222.StaticWebAssets.Manifest.cache
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\staticwebassets\RopaMexicana-171G0250-171G0222.StaticWebAssets.xml
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.dll
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.pdb
+C:\Users\TLEMEX\Downloads\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.genruntimeconfig.cache
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.exe
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.deps.json
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.runtimeconfig.json
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.runtimeconfig.dev.json
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.pdb
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.Views.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.Views.pdb
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\Pomelo.JsonObject.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.csprojAssemblyReference.cache
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.AssemblyInfoInputs.cache
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.AssemblyInfo.cs
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.csproj.CoreCompileInputs.cache
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.RazorAssemblyInfo.cache
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.RazorAssemblyInfo.cs
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\staticwebassets\RopaMexicana-171G0250-171G0222.StaticWebAssets.Manifest.cache
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\staticwebassets\RopaMexicana-171G0250-171G0222.StaticWebAssets.xml
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\scopedcss\bundle\RopaMexicana-171G0250-171G0222.styles.css
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.TagHelpers.input.cache
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.TagHelpers.output.cache
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.RazorCoreGenerate.cache
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\ActivacionDeCuenta.cshtml.g.cs
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\AñadirAfiliados.cshtml.g.cs
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\AñadirProducto.cshtml.g.cs
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\CambiarContraseñaAfiliados.cshtml.g.cs
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\Detalles.cshtml.g.cs
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditarDatosAfiliados.cshtml.g.cs
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\EditarDatosProducto.cshtml.g.cs
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\InicioDeSesion.cshtml.g.cs
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\InicioDeSesionAdministrador.cshtml.g.cs
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\MarcaxProductos.cshtml.g.cs
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\Registro.cshtml.g.cs
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\SesionIniciada.cshtml.g.cs
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\VerAfiliados.cshtml.g.cs
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Home\VerProductos.cshtml.g.cs
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutA.cshtml.g.cs
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.RazorTargetAssemblyInfo.cache
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.RazorTargetAssemblyInfo.cs
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.Views.pdb
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.csproj.CopyComplete
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.dll
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.pdb
+C:\Users\Erock\Documents\aah\RopaMexicana-171G0250-171G0222\obj\Debug\netcoreapp3.1\RopaMexicana-171G0250-171G0222.genruntimeconfig.cache
